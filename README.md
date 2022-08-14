@@ -1,1 +1,3 @@
 # balbina-safari
+
+[tours](tours)
